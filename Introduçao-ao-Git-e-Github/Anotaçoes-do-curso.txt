@@ -1,0 +1,25 @@
+Este arquivo mostra alguns comandos do git:
+
+- git init: inicia o git
+
+- git config: configurações(ex: nome, email)
+
+- git status: mostra o estado de arquivo(se ha modificações)
+
+- git add: adiciona o arquivo para ser alterado
+
+- git commit: executa as alterações nos arquivos
+
+- dir: mostra o conteudo de repositório que estamos
+
+- git remote: mostra os repositórios remotos
+
+- mkdir:cria uma pasta no repósitorio
+
+- git push: manda o repositório local para um remoto
+
+- git pull: puxa um repositório remoto para a sua maquina
+
+Estes são apenas alguns comandos do git.  
+
+   
